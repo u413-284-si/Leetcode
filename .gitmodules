@@ -1,3 +1,6 @@
 [submodule "1672.-Richest-Customer-Wealth"]
 	path = 1672.-Richest-Customer-Wealth
 	url = git@github.com:u413-284-si/1672.-Richest-Customer-Wealth.git
+[submodule "46.-Permutations"]
+	path = 46.-Permutations
+	url = git@github.com:u413-284-si/46.-Permutations.git
