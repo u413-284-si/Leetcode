@@ -4,3 +4,6 @@
 [submodule "46.-Permutations"]
 	path = 46.-Permutations
 	url = git@github.com:u413-284-si/46.-Permutations.git
+[submodule "89.Gray-Code"]
+	path = 89.Gray-Code
+	url = git@github.com:u413-284-si/89.Gray-Code.git
