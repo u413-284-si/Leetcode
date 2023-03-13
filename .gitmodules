@@ -1,9 +1,12 @@
 [submodule "1672.-Richest-Customer-Wealth"]
+	branch = main
 	path = 1672.-Richest-Customer-Wealth
 	url = git@github.com:u413-284-si/1672.-Richest-Customer-Wealth.git
 [submodule "46.-Permutations"]
+	branch = main
 	path = 46.-Permutations
 	url = git@github.com:u413-284-si/46.-Permutations.git
 [submodule "89.Gray-Code"]
+	branch = main
 	path = 89.Gray-Code
 	url = git@github.com:u413-284-si/89.Gray-Code.git
